@@ -6,7 +6,7 @@
 }
 
 .Parent{
-    background-image: url(images/941fcd62-1d97-4312-ae3b-7d4fb40d73b1.jpg);  
+    background-image: url(941fcd62-1d97-4312-ae3b-7d4fb40d73b1.jpg);  
     width: 100vw;
     height: 110vh;  
     background-position: top center ;
@@ -123,5 +123,6 @@ form .name-password input{
 .para a{
     color: #448ef4;
     font-size: 13px;
+
 
 }
